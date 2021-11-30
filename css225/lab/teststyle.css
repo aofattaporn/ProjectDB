@@ -1,0 +1,29 @@
+* {
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+}
+
+body{
+   background-color: rgb(91, 67, 125);
+}
+
+
+
+.detail {
+   color: rgb(7, 117, 213);
+
+   background-color: rgb(74, 137, 193);
+   height: 200px;
+   width: 200px;
+
+   margin: 20px;
+   
+}
+
+.detail-left {
+   color: aliceblue;
+   background-color: white;
+
+   margin: 40px;
+}
